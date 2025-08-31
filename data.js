@@ -25,7 +25,7 @@ export const tweetsData = [
             },
                   {
                 handle: `@ChuckNorris ✅`,
-                profilePic: `./images/chucknorris.jpeg`,
+                profilePic: `./images/chucknorris.jpg`,
                 tweetText: `I went last year😴`,
             },
         ],
